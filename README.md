@@ -1,2 +1,2 @@
 # MscDataScienceProjects 
-CIP Project @itsmeesis, @sabriri
+CIP Project @itsmeesis, @sabriri, @nbarnett19
